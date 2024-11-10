@@ -1,0 +1,2 @@
+2024-01-01 10:00:10 WARNING [WorkerThread-1] High memory usage detected: 85%
+2024-01-01 10:00:35 WARNING [MainThread] Slow query detected (2.5s): SELECT * FROM orders
